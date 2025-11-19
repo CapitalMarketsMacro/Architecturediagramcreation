@@ -13,6 +13,7 @@ export function ArchitectureDiagram() {
                 'Authentication/Authorization',
                 'Logging',
                 'Config',
+                'Common Style / Look and Feel',
                 'ag-Grid Wrapper',
                 'ag-Chart Wrapper',
                 'OpenFin API Wrapper',
