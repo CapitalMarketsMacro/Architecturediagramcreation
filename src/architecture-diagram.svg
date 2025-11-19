@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <!-- Background -->
+  <rect width="1400" height="900" fill="#1e293b" rx="12"/>
+  
+  <!-- Macro Desktop Reference Repo Section (Left) -->
+  <g id="macro-desktop-repo">
+    <!-- Blue gradient background -->
+    <defs>
+      <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect x="40" y="40" width="320" height="440" fill="url(#blueGrad)" rx="8" stroke="#3b82f6" stroke-width="2"/>
+    
+    <!-- Title -->
+    <text x="200" y="75" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Macro Desktop Reference Repo</text>
+    
+    <!-- Items -->
+    <rect x="55" y="100" width="290" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#3b82f6" stroke-opacity="0.3"/>
+    <text x="200" y="126" font-family="Arial, sans-serif" font-size="13" fill="#bfdbfe" text-anchor="middle">Authentication/Authorization</text>
+    
+    <rect x="55" y="150" width="290" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#3b82f6" stroke-opacity="0.3"/>
+    <text x="200" y="176" font-family="Arial, sans-serif" font-size="13" fill="#bfdbfe" text-anchor="middle">Logging</text>
+    
+    <rect x="55" y="200" width="290" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#3b82f6" stroke-opacity="0.3"/>
+    <text x="200" y="226" font-family="Arial, sans-serif" font-size="13" fill="#bfdbfe" text-anchor="middle">Config</text>
+    
+    <rect x="55" y="250" width="290" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#3b82f6" stroke-opacity="0.3"/>
+    <text x="200" y="276" font-family="Arial, sans-serif" font-size="13" fill="#bfdbfe" text-anchor="middle">ag-Grid Wrapper</text>
+    
+    <rect x="55" y="300" width="290" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#3b82f6" stroke-opacity="0.3"/>
+    <text x="200" y="326" font-family="Arial, sans-serif" font-size="13" fill="#bfdbfe" text-anchor="middle">ag-Chart Wrapper</text>
+    
+    <rect x="55" y="350" width="290" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#3b82f6" stroke-opacity="0.3"/>
+    <text x="200" y="376" font-family="Arial, sans-serif" font-size="13" fill="#bfdbfe" text-anchor="middle">OpenFin API Wrapper</text>
+    
+    <rect x="55" y="400" width="290" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#3b82f6" stroke-opacity="0.3"/>
+    <text x="200" y="420" font-family="Arial, sans-serif" font-size="13" fill="#bfdbfe" text-anchor="middle">Transport Library -</text>
+    <text x="200" y="435" font-family="Arial, sans-serif" font-size="13" fill="#bfdbfe" text-anchor="middle">AMPS/Solace/Deephaven</text>
+  </g>
+  
+  <!-- Macro OpenFin Desktop Section (Right) -->
+  <g id="macro-openfin-desktop">
+    <!-- Purple gradient background -->
+    <defs>
+      <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#9333ea;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#7e22ce;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect x="380" y="40" width="980" height="440" fill="url(#purpleGrad)" rx="8" stroke="#a855f7" stroke-width="2"/>
+    
+    <!-- Title -->
+    <text x="870" y="75" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Macro OpenFin Desktop</text>
+    
+    <!-- Items -->
+    <rect x="400" y="100" width="940" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#a855f7" stroke-opacity="0.3"/>
+    <text x="870" y="126" font-family="Arial, sans-serif" font-size="13" fill="#e9d5ff" text-anchor="middle">Container</text>
+    
+    <rect x="400" y="150" width="940" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#a855f7" stroke-opacity="0.3"/>
+    <text x="870" y="176" font-family="Arial, sans-serif" font-size="13" fill="#e9d5ff" text-anchor="middle">Layout Management</text>
+    
+    <rect x="400" y="200" width="940" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#a855f7" stroke-opacity="0.3"/>
+    <text x="870" y="226" font-family="Arial, sans-serif" font-size="13" fill="#e9d5ff" text-anchor="middle">Notification Center</text>
+    
+    <rect x="400" y="250" width="940" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#a855f7" stroke-opacity="0.3"/>
+    <text x="870" y="276" font-family="Arial, sans-serif" font-size="13" fill="#e9d5ff" text-anchor="middle">App Store</text>
+    
+    <rect x="400" y="300" width="940" height="42" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#a855f7" stroke-opacity="0.3"/>
+    <text x="870" y="326" font-family="Arial, sans-serif" font-size="13" fill="#e9d5ff" text-anchor="middle">Dock</text>
+    
+    <!-- MFE blocks -->
+    <rect x="400" y="360" width="305" height="100" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#818cf8" stroke-opacity="0.5"/>
+    <text x="552" y="415" font-family="Arial, sans-serif" font-size="13" fill="#c7d2fe" text-anchor="middle">MFE</text>
+    
+    <rect x="718" y="360" width="305" height="100" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#818cf8" stroke-opacity="0.5"/>
+    <text x="870" y="415" font-family="Arial, sans-serif" font-size="13" fill="#c7d2fe" text-anchor="middle">MFE</text>
+    
+    <rect x="1035" y="360" width="305" height="100" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#818cf8" stroke-opacity="0.5"/>
+    <text x="1187" y="415" font-family="Arial, sans-serif" font-size="13" fill="#c7d2fe" text-anchor="middle">MFE</text>
+  </g>
+  
+  <!-- Macro Tech Stack Section (Bottom) -->
+  <g id="macro-tech-stack">
+    <!-- Green gradient background -->
+    <defs>
+      <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect x="40" y="520" width="1320" height="190" fill="url(#greenGrad)" rx="8" stroke="#10b981" stroke-width="2"/>
+    
+    <!-- Title -->
+    <text x="700" y="555" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Macro Tech Stack to Connect to Backend</text>
+    
+    <!-- Backend Items -->
+    <g id="amps">
+      <rect x="60" y="580" width="305" height="110" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#10b981" stroke-opacity="0.3"/>
+      <text x="212" y="625" font-family="Arial, sans-serif" font-size="14" fill="#a7f3d0" text-anchor="middle">AMPS</text>
+      <text x="212" y="650" font-family="Arial, sans-serif" font-size="12" fill="#6ee7b7" text-anchor="middle">View Server</text>
+    </g>
+    
+    <g id="solace">
+      <rect x="385" y="580" width="305" height="110" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#10b981" stroke-opacity="0.3"/>
+      <text x="537" y="625" font-family="Arial, sans-serif" font-size="14" fill="#a7f3d0" text-anchor="middle">Solace</text>
+      <text x="537" y="650" font-family="Arial, sans-serif" font-size="12" fill="#6ee7b7" text-anchor="middle">Messaging</text>
+    </g>
+    
+    <g id="deephaven-api">
+      <rect x="710" y="580" width="305" height="110" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#10b981" stroke-opacity="0.3"/>
+      <text x="862" y="635" font-family="Arial, sans-serif" font-size="14" fill="#a7f3d0" text-anchor="middle">Deephaven API</text>
+    </g>
+    
+    <g id="coherence-adapter">
+      <rect x="1035" y="580" width="305" height="110" fill="#0f172a" fill-opacity="0.9" rx="4" stroke="#10b981" stroke-opacity="0.3"/>
+      <text x="1187" y="625" font-family="Arial, sans-serif" font-size="14" fill="#a7f3d0" text-anchor="middle">Coherence-To-AMPS</text>
+      <text x="1187" y="650" font-family="Arial, sans-serif" font-size="14" fill="#a7f3d0" text-anchor="middle">Adapter</text>
+    </g>
+  </g>
+  
+  <!-- Bottom Tier - Underlying Systems -->
+  <g id="underlying-systems">
+    <!-- Gray gradient background -->
+    <defs>
+      <linearGradient id="grayGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#475569;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    
+    <!-- Deephaven -->
+    <rect x="710" y="730" width="305" height="60" fill="url(#grayGrad)" rx="8" stroke="#64748b" stroke-width="2"/>
+    <text x="862" y="765" font-family="Arial, sans-serif" font-size="14" fill="#f1f5f9" text-anchor="middle">Deephaven</text>
+    
+    <!-- Coherence -->
+    <rect x="1035" y="730" width="305" height="60" fill="url(#grayGrad)" rx="8" stroke="#64748b" stroke-width="2"/>
+    <text x="1187" y="765" font-family="Arial, sans-serif" font-size="14" fill="#f1f5f9" text-anchor="middle">Coherence</text>
+  </g>
+</svg>
